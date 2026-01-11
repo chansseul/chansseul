@@ -10,7 +10,9 @@
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
           <br/></div>
     </div>
+    <br><br>
 
+<div align= "center">
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/chansseul"/>
-</a>
+</a> </div>
